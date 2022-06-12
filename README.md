@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devjanar
 - 👀 I’m interested in MERN Stack.
 - 🌱 I’m currently learning GraphQL.
-- 💞️ I’m looking to collaborate on Javascript,Node.js,React.js,GraphQL,MongoDB,HTML,CSS.
+- 💞️ I’m looking to collaborate on Javascript,Node.js,React.js,TypeScript,GraphQL,MongoDB,HTML,CSS.
 - 📫 You can reach me dev.janar@gmail.com.
 
 <!---
