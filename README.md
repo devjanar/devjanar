@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devjanar
-- 👀 I’m Passionate In MERN Stack.
+- 👀 I’m passionate In MERN Stack.
 - 🌱 I’m currently learning GraphQL.
 - 💞️ I’m looking to collaborate on Javascript,Node.js,React.js,TypeScript,GraphQL,MongoDB,HTML,CSS.
 - 📫 You can reach me dev.janar@gmail.com.
