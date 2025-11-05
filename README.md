@@ -1,8 +1,8 @@
 👋 **Hi, I’m @devjanar**  
-👀 **Full-Stack Developer | MERN Stack Enthusiast**  
+🌟 **Full-Stack Developer | MERN Stack Enthusiast**  
 
 💻 **Technologies I work with:**  
-JavaScript, Node.js, React.js, Next.js, TypeScript, GraphQL, Python, PostgreSQL, MongoDB, HTML, CSS  
+JavaScript, Node.js, React.js, Next.js, TypeScript, GraphQL, Python, PySide6, PostgreSQL, MongoDB, HTML, CSS  
 
 🤝 **I’m open to collaborating on exciting projects!**  
 
