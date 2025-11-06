@@ -2,7 +2,8 @@
 🌟 **Full-Stack Developer | MERN Stack Enthusiast**  
 
 💻 **Technologies I work with:**  
-JavaScript, Node.js, React.js, Next.js, TypeScript, GraphQL, Python, PySide6, PostgreSQL, MongoDB, HTML, CSS  
+JavaScript, Node.js, Express.js, NestJS, React.js, Next.js, TypeScript, GraphQL, Redux, Zustand, PWA,
+Python, PySide6, FastAPI, Django, Automation, Docker, PostgreSQL, SQLite, MongoDB, HTML, CSS  
 
 🤝 **I’m open to collaborating on exciting projects!**  
 
